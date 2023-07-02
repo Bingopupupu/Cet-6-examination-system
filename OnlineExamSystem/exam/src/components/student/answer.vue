@@ -1,7 +1,7 @@
 <!--考生答题界面-->
 <template>
   <div id="answer">
-    <!--顶部信息栏-->
+    <!--顶部-->
      <div class="top">
        <ul class="item">
          <li><i class="iconfont icon-menufold icon20" ref="toggle" @click="slider_flag = !slider_flag"></i></li>
